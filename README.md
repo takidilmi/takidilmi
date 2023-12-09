@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="E-mail">
   </a>
 </p>
-# MY STATS:
+## MY STATS:
 
 [![](https://raw.githubusercontent.com/takidilmi/gitStats/master/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takidilmi/gitStats/master/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takidilmi/gitStats/master/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
