@@ -1,10 +1,10 @@
 #
 
-<h2 align="left"><div align="center">
- <img src="https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b" height="100" width="768" alt="WorkContribution">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b" alt="WorkContribution" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-<br clear="both"></h2>
+<br clear="both">
 
 ###
 
