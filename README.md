@@ -1,7 +1,7 @@
 #
 
 <h2 align="left"><div align="center">
- <img src="https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b" height="35" width="768" alt="WorkContribution">
+ <img src="https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b" height="100" width="768" alt="WorkContribution">
 </div>
 
 <br clear="both"></h2>
