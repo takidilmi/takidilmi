@@ -1,7 +1,7 @@
 #
 
 <h2 align="left"><div align="center">
- ![image](https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b)
+ <img src="https://github.com/user-attachments/assets/f6a70702-c27d-4acd-b35f-0416895a347b" height="35" alt="WorkContribution">
 </div>
 
 <br clear="both"></h2>
